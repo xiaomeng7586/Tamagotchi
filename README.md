@@ -1,2 +1,0 @@
-# Tamagotchi
-threejs-journey Tamagotchi
